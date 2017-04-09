@@ -1,0 +1,21 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot app for fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "chatbot",
+    "cats"
+  ],
+  "author": "Arinc Elhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "json-bigint": "^0.2.1",
+    "request": "^2.79.0"
+  }
+}
