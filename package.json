@@ -4,7 +4,8 @@
   "description": "Chatbot app for fun.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "keywords": [
     "chatbot",
@@ -15,7 +16,6 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "json-bigint": "^0.2.1",
     "request": "^2.79.0"
   }
 }
